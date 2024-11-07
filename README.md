@@ -1,4 +1,4 @@
-#Hi 👋, I'm Erik<br>A fulltime student from Madison, WI
+# Hi 👋, I'm Erik<br>A fulltime student from Madison, WI
 
 
 # 🌐 Socials:
